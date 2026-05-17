@@ -1,16 +1,21 @@
-## Hi there 👋
+# McDsFeedback
 
-<!--
-**mcdsfeedback/mcdsfeedback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Unabhängige Informationsplattform rund um McDonald’s Feedback, Kundenservice, Beschwerden, Gutscheine und Kundenerfahrungen in Deutschland.
 
-Here are some ideas to get you started:
+## Themen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* McDonald’s Feedback
+* Beschwerden & Kundenservice
+* Gutscheine & Coupons
+* Restaurant-Erfahrungen
+* Fast Food Informationen
+
+## Website
+
+https://mcdsfeedback.de/
+
+## Weitere Informationen
+
+McDsFeedback veröffentlicht hilfreiche Informationen, Tipps und Anleitungen rund um Feedback-Prozesse und Kundenerfahrungen in Deutschland.
+
+McDsFeedback steht in keiner offiziellen Verbindung zu McDonald’s.
